@@ -35,20 +35,20 @@ footer {
     font-size: 14px;
     margin-top: 30px;
     padding: 12px 0px 12px 0px;
+    text-align: left;
 }
 footer figcaption {
     text-align: right;
 }
-
 footer img {
-    position: relative;
-    bottom: 0px;
-    right: 0px;
+  position: relative;
+  bottom: 0px;
+  right: 0px;
 	float: right;
-    height: auto;
-    width: 25px;
-    vertical-align: bottom;
-	opacity: 0.5;
+  height: auto;
+  width: 25px;
+  vertical-align: bottom;
+	opacity: 0.8;
 }
 
 h1,h2,h3{line-height:1.2;}
