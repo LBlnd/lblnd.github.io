@@ -36,6 +36,11 @@ footer {
     margin-top: 30px;
     padding: 12px 0px 12px 0px;
     text-align: left;
+/*    
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+ */
 }
 footer figcaption {
     text-align: right;
